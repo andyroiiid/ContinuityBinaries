@@ -1,4 +1,4 @@
-# ContinuityBinaries
+# Continuity
 
 A prototype game made with Unity3D.
 
