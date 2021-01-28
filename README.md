@@ -4,6 +4,9 @@ A prototype game made with Unity3D.
 
 You can control objects in the game with your phone.
 
+# Download link
+https://github.com/andyroiiid/ContinuityBinaries/releases/download/v0.1/Continuity.7z
+
 # Gameplay Video
 https://youtu.be/_mikk_q7n9w
 
